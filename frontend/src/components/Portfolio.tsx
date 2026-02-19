@@ -17,21 +17,21 @@ const Portfolio: React.FC = () => {
       title: 'E-Commerce Platform', 
       description: 'Повнофункціональний інтернет-магазин з оплатою та адмінкою. Включає в себе керування товарами, кошик, оформлення замовлення та інтеграцію з платіжними системами.', 
       tech: ['React', 'Node.js', 'MongoDB', 'Stripe'], 
-      image: '/images/project-ecommerce.svg' 
+      image: '/images/cat-ecommerce.jpg' 
     },
     { 
       id: 2, 
       title: 'AI Dashboard', 
       description: 'Аналітична панель з інтеграцією штучного інтелекту для аналізу даних в реальному часі. Використовує машинне навчання для прогнозування трендів.', 
       tech: ['Python', 'FastAPI', 'Vue.js', 'TensorFlow'], 
-      image: '/images/project-ai-dashboard.svg' 
+      image: '/images/cat-ai.jpg' 
     },
     { 
       id: 3, 
       title: 'Crypto Wallet App', 
       description: 'Мобільний додаток для безпечного керування криптоактивами. Підтримує різні блокчейни, перекази та перегляд історії транзакцій.', 
       tech: ['React Native', 'TypeScript', 'Web3', 'Blockchain'], 
-      image: '/images/project-crypto-wallet.svg' 
+      image: '/images/cat-crypto.jpg' 
     }
   ]);
 

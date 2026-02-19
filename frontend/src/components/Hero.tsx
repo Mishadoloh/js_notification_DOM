@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
       </div>
       <div className="hero-visual">
          <div className="profile-image-container">
-            <img src="https://github.com/Mishadoloh.png" alt="Михайло" className="hero-profile-img" />
+            <img src="/images/cat-hero.jpg" alt="Михайло" className="hero-profile-img" />
          </div>
       </div>
     </section>
